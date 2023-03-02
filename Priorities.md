@@ -1,10 +1,12 @@
-send out resume
-leetcode questions
-fix your github page
-school work
-hackathon
+1. send out resume
+2. leetcode questions
+3. fix your github page
+4. school work
+5. hackathon
 
-
+``` diff
+- How do you eat an elephant?
+```
 
 your priority for this week:
 - [x] Finish Cisco OA
