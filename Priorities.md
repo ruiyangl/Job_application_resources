@@ -17,4 +17,6 @@ your priority for this week:
 - [] Apply for Deloitte internship 
 - [] Check out Snowflake
 - [] Check out Amex
+- [] Add soft skills to your resume
+- [] Apply for Intel Jobs
 
