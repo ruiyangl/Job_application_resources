@@ -8,15 +8,11 @@
 - How do you eat an elephant?
 ```
 
-your priority for this week:
-- [x] Finish Cisco OA
-- [] Finish Amazon OA
+your priority for these two days:
 - [] Apply for Oracle intern
 - [] Talk to Oracle people
 - [] Send email to deloitte recruiter
-- [] Apply for Deloitte internship 
 - [] Check out Snowflake
 - [] Check out Amex
-- [] Add soft skills to your resume
 - [] Apply for Intel Jobs
 
