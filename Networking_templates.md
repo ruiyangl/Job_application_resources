@@ -59,7 +59,7 @@ I'm a fellow UW alum and found your profile while searching for an intern/NG dev
 
 > Hi  
 > Hope all is well with you! Hope everything goes well and <Insert something personal, such as asking how her family is, or some new changes you know happen to them>.   >I am wondering whether you have any contacts with your company's hiring personnel and if you would feel comfortable making an introduction. If you feel that you're familiar enough with my work history and skills to put me in contact with <hiring manager's name>, I would greatly appreciate it!  
-> >I also attached my resume for reference, and looking forward to hearing from you let me know when you are free so we can grab coffee and chat in person!
+>I also attached my resume for reference, and looking forward to hearing from you let me know when you are free so we can grab coffee and chat in person!
 
 
 ### For acquaintances/One occasion contacts
