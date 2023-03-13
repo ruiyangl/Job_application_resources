@@ -9,10 +9,11 @@
 ```
 
 your priority for these two days:
-- [] Apply for Oracle intern
+- [x] Apply for Oracle intern
 - [] Talk to Oracle people
-- [] Send email to deloitte recruiter
+- x[] Send email to deloitte recruiter
 - [] Check out Snowflake
 - [] Check out Amex
-- [] Apply for Intel Jobs
-
+- [x] Apply for Intel Jobs
+- [] Check out BlackRock https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers
+- [] 
