@@ -98,3 +98,30 @@ I'm a fellow UW alum and found your profile while searching for an intern/NG dev
 > After talking with him, he mentioned that your company is hiring <position>.  After reading the job description online. I am confident that I could also provide real value to your company. <my experience that's relavent>. If this job hiring is something you actively working on, would it be all right if I could chat with you about this job opening sometime this week?. If someone else is working on this hiring, it would be greatly appreciated if you could help me connect with the right hiring personnel.  
 >I really thank you for your time, and if there is any additional informaiton or resume I can provide, please don't hesitante to reach out.
 
+
+
+
+
+Hello Ms. Ortiz,
+
+I hope this message finds you well. My name is Ruiyang Li, and I recently talked to Bradley Retterer during a Bloomberg campus event. He encouraged me to reach out to you and other Bloomberg recruiters. I hope you don't mind me contacting you directly.
+
+As a first-generation computer engineering student from China, I am reaching out to seek your guidance and advice in navigating the competitive tech market. I am eager to learn from your expertise and experience at Bloomberg.
+
+At the age of 17, I left China with a dream to become the first person in my family to make a living in the United States. I later graduated from the University of Washington, where I worked full-time as a researcher to support myself. During this period, I taught myself and fell in love with coding and contributed to advancing genetic disease treatment. While still an undergraduate student, my research led to several publications in top journals like Nature and Science, an achievement that fills me with immense pride.
+
+Unfortunately, the pressures of academia, coupled with a lack of coping mechanisms and loneliness, resulted in a diagnosis of depression and anxiety. Consequently, I could not continue pursuing my Ph.D. Over the next two years, I focused on treatment and learned valuable life lessons, such as who to collaborate with people from diverse backgrounds and being mindful under pressure.
+
+During this time, I became captivated by financial technology after reading about financial legends like John Paulson and Mike Bloomberg. My participation in multiple Bloomberg campus events, including the puzzle competition, convinced me that Bloomberg is the ideal place to grow and develop my skills over the next five years.
+
+I am graduating from the University of Florida with a master's degree in computer engeering. My student visa status expires this year, and I am urgently seeking opportunities and guidance. I know your assistance will have a significant impact on my career trajectory, so if you could spare a few minutes to connect and answer some questions, I would be incredibly grateful.
+
+Thank you for your time and consideration. I look forward to the possibility of speaking with you soon.
+
+Warm regards,
+
+Ruiyang Li
+
+
+A Sincere Message Asking for Guidance and Connection
+
