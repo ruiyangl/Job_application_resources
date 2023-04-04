@@ -2,6 +2,20 @@
 # LinkedIn templates
 
 
+## diff legends
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+
+
 ## How to approach a job opening  
   
   1. read the job descriptions  
@@ -30,7 +44,9 @@
 #### UW alumni
 
 
-
+```diff
++ 很好用
+```
 > Hi   
 I'm a fellow UW alum and found your profile while searching for an intern/NG developer position. I have published several papers in top journals such as Nature, and I am getting my M.Sc. in CSE now. I would greatly appreciate it if you are willing to connect. Thank you and go Husky.
 
@@ -136,4 +152,6 @@ Subject: Seeking Introduction to Pacific Biosciences Hiring Team
 > Ruiyang Li
 
 
+	
+	
 
