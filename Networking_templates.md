@@ -138,7 +138,11 @@ I hope you're doing well. My name is Ruiyang. I worked at Evan's lab for a few y
 
 >I would be genuinely greatful if we could have a quick phone or text conversation about having a careering in <Company or sector>, and If you think I am a good candidate, a referal from you will be greatly appreciated.
 
-
+#### Message to Oracle connections (help from GPT4)
+Hey
+Hope you're doing well since we last connected! I reached out to you a while back about my interest in starting my tech career with Oracle. I'm just about to finish up my master's and I'm actively looking for a software engineering position, preferably at Oracle. I'm eager to learn more about the company, and I highly value any tips and advice from someone with your experience.
+Would it be possible for us to have a casual conversation, maybe over a call or text? I'm genuinely interested in hearing about your journey at Oracle. And, if you feel I could be a good fit for the company, I would be extremely grateful for a referral.
+Thank you so much for considering my request. Your guidance could make a world of difference for me.
 
 
 ### Message to hiring managers
@@ -150,7 +154,7 @@ I hope you're doing well. My name is Ruiyang. I worked at Evan's lab for a few y
 
 
 
-### Message to Bloomberg team (hlep from gpt-4)
+### Message to Bloomberg team (hlep from gpt-4) (not that good :( )
 
 >Hello Ms. Ortiz,
 
