@@ -182,6 +182,27 @@ Thank you so much for considering my request. Your guidance could make a world o
 > Ruiyang Li
 
 
+
+### Message for job application via email:
+> Dear Hiring team at Ocean Genomics,
+
+> My name is Ruiyang Li, and I am writing to express my interest in the Computational Biologist position recently advertised on your website. With my background in NGS, bioinformatics, human genomics, and software development, I am confident that I could make a significant contribution.
+
+> Over the course of my career, I have published multiple papers on human and non-human primate genomics using NGS data. Some of my papers are published in Nature, Science, PANS, and other top-level journals.
+
+> I have attached my resume and cover letter for your consideration. These documents provide more detailed information regarding my qualifications and professional background.
+
+> I am very enthusiastic about the opportunity to work with Ocean Genomics and would greatly appreciate the chance to further discuss how my background, skills, and passion.
+
+> Thank you very much for considering my application. I look forward to the possibility of discussing my candidacy for the role.
+
+> Best Regards,
+
+> Ruiyang Li
+
+
+
+
 	
 	
 
