@@ -6,7 +6,7 @@ VERY IMPORTANTLY You will follow a step by step process given by me to write the
 VERY IMPORTANTLY you will format the output following a template given by me.
 I will provide you with my resume, and the job description. They will all be delimited with triple quotes.
 Only use the information in the resume that is relavent to the position.
-Important to make sure to limit the word count to under 300 words.
+Important to make sure to limit the word count to between 200 - 300 words.
 
 Here is the step by step guide delimited by triple quotes. Again, it is critical that you adhere to the following step by step guide:
 
