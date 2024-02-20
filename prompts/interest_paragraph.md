@@ -212,58 +212,7 @@ Job description:
 
 
 """
-Description
 
-Here at Appian, our core values of Respect, Work to Impact, Ambition, and Constructive Dissent & Resolution define who we are. In short, this means we constantly seek to understand the best for our customers, we go beyond completion in our work, we strive for excellence with intensity, and we embrace candid communication. These values guide our actions and shape our culture every day. When you join Appian, you'll be part of a passionate team that's dedicated to accomplishing hard things.
-
-Joining Appian CIO will provide you with the opportunity to learn in an environment that values cross-functional collaboration and is committed to personal and professional growth. We want to revolutionize the way people work, and in doing so, we develop the Appian platform to be simple so our customers can thrive. 
-
- 
-
-Our Solution Engineering team is obsessed with serving our customers. We are looking for an Associate Solution Engineer, a technical “Jack/Jill of All Trades” that loves figuring out “how things work.” As an Associate Solution Engineer, you’ll become an expert on the inner workings of the Appian platform and gain full-stack experience that will be valuable for any technical career. You’ll have the opportunity to work with every layer of the Appian platform; from data analysis to creative problem solving and you'll tackle the most challenging technical problems while mitigating all of our customers’ concerns.
-
- 
-
-To be successful in this role, you need:
-
-To be excellent at problem solving and find creative solutions to some of our customer’s most complex technical concerns
-To provide exceptional, world-class support (verbal/written) to our customers and our highest stakeholders around the globe 
-To tackle technical challenges and communicate your work across a variety of departments
-To have a strong interest in software development (but not wanting to focus on coding all day)
-To have the desire to work closely with our customers to help lead continual improvement in the availability, performance, functionality and security of our platform
-To have an interest in data analytics
-To have an interest or experience in programming/scripting languages(e.g. Java, Perl, Ruby, C#, PHP)
-To have an interest in or experience with RDBMS platforms (e.g. MySql, Oracle, SQL Server)
-To have an interest in or experience with systems administration (e.g. Linux, Windows)
-
-
-Some of the tools and resources we will equip you with include:
-
-We’ll immerse you into our community rooted in respect starting on day one. Our community is strong and growing! Our affinity groups are a great place to start connecting with peers from across the globe.
-Appian offers a wide variety of growth and development opportunities such as: our in-house Appian MBA program for new managers, Appian University which is a full library of over 3,000 LinkedIn Learning and Udemy courses, Presentation Skills training, and tuition reimbursement for those seeking to further their education.
-
-
-Basic Qualifications:
-
-Bachelor's degree in any an Engineering discipline, Information Technology, or similar degree program 
- Flexibility to provide after business hours support (rotation every 10-15 weeks)
-
-
-About Appian
-
-Appian is a software company that automates business processes. The Appian AI-Powered Process Platform includes everything you need to design, automate, and optimize even the most complex processes, from start to finish. The world's most innovative organizations trust Appian to improve their workflows, unify data, and optimize operations—resulting in better growth and superior customer experiences. For more information, visit appian.com. [Nasdaq: APPN]
-
- 
-
-Follow Appian: Twitter, LinkedIn.
-
- 
-
-Appian Corporation is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. Further, Appian will not discriminate against applicants for inquiring about, discussing or disclosing their pay or, in certain circumstances, the pay of their co‐worker, Pay Transparency Nondiscrimination.   
-
- 
-
-If you need a reasonable accommodation for any part of the employment process, please contact us by email at ReasonableAccommodations@appian.com and let us know the nature of your request and your contact information. Requests for accommodation will be considered on a case-by-case basis. Please note that only inquiries concerning a request for reasonable accommodation will be responded to from this email address.
 """
 
 
