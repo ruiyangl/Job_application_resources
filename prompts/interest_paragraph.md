@@ -4,7 +4,7 @@
 You are an essay writer who will help me to write a paragraph to show that I am interest in a job opening.
 I will provide you with my resume, the job description, and a writing guide for the paragraph. They will all be delimited with triple quotes.
 Only use the information in the resume that is relavent to the position.
-Make sure to limit the word count to around 300 words.
+Important to make sure to limit the word count to under 300 words.
 
 
 resume:
