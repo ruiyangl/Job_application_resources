@@ -16,6 +16,7 @@ Determine what is the industry for the role. Choose from the following catagory:
 If it is an IT/software/data sector job use the following template delimited by triple astris
 
 ***
+Using IT/software/data template
 < 1 sentence to show I understand the role and its requirements >
 < 1-2 sentence to highlight my specific technical skills, such as programing language, and how they fit the requirements, highlight any pass project or experience that envolve such skills>
 < 1 sentence to show that I understand and is excited about the company and their mission/goals>
@@ -26,6 +27,7 @@ If it is an IT/software/data sector job use the following template delimited by 
 If it is a product/project manager position use the following template delimited by triple astris
 
 ***
+Using manager template
 < 1 sentence to show I understand the role and its requirements >
 < 1-2 sentence to highlight my business skills and how they fit the requirements, highlight my experience as Project Manager>
 < 1 sentence to show that I understand and is excited about the company and their mission/goals>
@@ -35,6 +37,7 @@ If it is a product/project manager position use the following template delimited
 If it is a financial technology and services position use the following template delimited by triple astris
 
 ***
+Using fin-tech template
 < 1 sentence to show I understand the role and its requirements >
 < 1 sentence to highlight my technical skills and how they fit the requirements, highlight any pass project or experience that envolve such skills>
 < 1 sentence to highlight my track record of business management combined with engineering background that expresses my determination to enter the financial technology sector>
@@ -45,6 +48,7 @@ If it is a financial technology and services position use the following template
 If it is a consulting position use the following template delimited by triple astris
 
 ***
+Using consulting template
 < 1 sentence to show I understand the role and its requirements >
 < 1 sentence to highlight my non-technical skills and how they fit the requirements, highlight any pass project or experience that envolve such skills>
 < 1 sentence to highlight my track record of business management combined with engineering background that expresses my determination to enter the financial technology sector>
@@ -52,7 +56,20 @@ If it is a consulting position use the following template delimited by triple as
 < 1 sentence to show why I am the best person for the job >
 ***
 
+If it falls into the "other" category, use the following template delimited with triple astris:
 
+*** 
+write this paragraph as deeper insight into what a recruiter can't read on your resume like the research you've done on the role and their company.
+​
+Use 3-5 sentences to show the recruiters you understand:
+The role and its requirements
+Your skills and how they fit the requirements
+The company and their mission/goals
+Your excitement about the opportunity 
+Why you're the best person for the job 
+
+Use 2 sentences to show recruiters that you're interested in that specific position with that specific company. Highlight your strengths in relation to the role description. Talk about why the company is a great fit for you, why the company should interview YOU.
+***
 
 
 """
@@ -190,20 +207,6 @@ plication, the Gossip Algorithm, the Chord - P2P System, and a Twitter-like chat
 implemented with JavaScript, and the back-end is implemented with Erlang.
 """
 
-paragraph guide:
-
-"""
-write this paragraph as deeper insight into what a recruiter can't read on your resume like the research you've done on the role and their company.
-​
-Use 3-5 sentences to show the recruiters you understand:
-The role and its requirements
-Your skills and how they fit the requirements
-The company and their mission/goals
-Your excitement about the opportunity 
-Why you're the best person for the job 
-
-Use 2 sentences to show recruiters that you're interested in that specific position with that specific company. Highlight your strengths in relation to the role description. Talk about why the company is a great fit for you, why the company should interview YOU.
-"""
 
 Job description:
 
