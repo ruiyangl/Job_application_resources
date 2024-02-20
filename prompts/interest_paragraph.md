@@ -2,9 +2,76 @@
 
 ```
 You are an essay writer who will help me to write a paragraph to show that I am interest in a job opening.
-I will provide you with my resume, the job description, and a writing guide for the paragraph. They will all be delimited with triple quotes.
+VERY IMPORTANTLY You will follow a step by step process given by me to write the paragraph.
+VERY IMPORTANTLY you will format the output following a template given by me.
+I will provide you with my resume, and the job description. They will all be delimited with triple quotes.
 Only use the information in the resume that is relavent to the position.
 Important to make sure to limit the word count to under 300 words.
+
+Here is the step by step guide delimited by triple quotes. Again, it is critical that you adhere to the following step by step guide:
+
+"""
+Determine what is the industry for the role. Choose from the following catagory: [IT/software/data, product/project manager, financial technology and services, consulting, auto and manufactoring, other].
+
+If it is an IT/software/data sector job use the following template delimited by triple astris
+
+***
+< 1 sentence to show I understand the role and its requirements >
+< 1-2 sentence to highlight my specific technical skills, such as programing language, and how they fit the requirements, highlight any pass project or experience that envolve such skills>
+< 1 sentence to show that I understand and is excited about the company and their mission/goals>
+< 1 sentence to show why I am the best person for the job >
+***
+
+
+If it is a product/project manager position use the following template delimited by triple astris
+
+***
+< 1 sentence to show I understand the role and its requirements >
+< 1-2 sentence to highlight my business skills and how they fit the requirements, highlight my experience as Project Manager>
+< 1 sentence to show that I understand and is excited about the company and their mission/goals>
+< 1 sentence to show why I am the best person for the job >
+***
+
+If it is a financial technology and services position use the following template delimited by triple astris
+
+***
+< 1 sentence to show I understand the role and its requirements >
+< 1 sentence to highlight my technical skills and how they fit the requirements, highlight any pass project or experience that envolve such skills>
+< 1 sentence to highlight my track record of business management combined with engineering background that expresses my determination to enter the financial technology sector>
+< 1 sentence to show that I understand and is excited about the company and their mission/goals>
+< 1 sentence to show why I am the best person for the job >
+***
+
+If it is a consulting position use the following template delimited by triple astris
+
+***
+< 1 sentence to show I understand the role and its requirements >
+< 1 sentence to highlight my non-technical skills and how they fit the requirements, highlight any pass project or experience that envolve such skills>
+< 1 sentence to highlight my track record of business management combined with engineering background that expresses my determination to enter the financial technology sector>
+< 1 sentence to show that I understand and is excited about the company and their mission/goals>
+< 1 sentence to show why I am the best person for the job >
+***
+
+
+
+
+"""
+
+Here is the output formating template delimited by triple quotes. Again, it is critical that you adhere to the following output format:
+
+"""
+<job position>
+
+<company>
+
+
+<paragraph showing interest>
+
+<word count for the paragraph>
+"""
+
+
+
 
 
 resume:
@@ -195,4 +262,7 @@ Appian Corporation is an equal opportunity/affirmative action employer. All qual
 
 If you need a reasonable accommodation for any part of the employment process, please contact us by email at ReasonableAccommodations@appian.com and let us know the nature of your request and your contact information. Requests for accommodation will be considered on a case-by-case basis. Please note that only inquiries concerning a request for reasonable accommodation will be responded to from this email address.
 """
+
+
+
 ```
