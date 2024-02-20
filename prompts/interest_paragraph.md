@@ -16,7 +16,7 @@ Determine what is the industry for the role. Choose from the following catagory:
 If it is an IT/software/data sector job use the following template delimited by triple astris
 
 ***
-Using IT/software/data template
+< indicate which catagory did you classify this position to>
 < 1 sentence to show I understand the role and its requirements >
 < 1-2 sentence to highlight my specific technical skills, such as programing language, and how they fit the requirements, highlight any pass project or experience that envolve such skills>
 < 1 sentence to show that I understand and is excited about the company and their mission/goals>
@@ -27,7 +27,7 @@ Using IT/software/data template
 If it is a product/project manager position use the following template delimited by triple astris
 
 ***
-Using manager template
+< indicate which catagory did you classify this position to>
 < 1 sentence to show I understand the role and its requirements >
 < 1-2 sentence to highlight my business skills and how they fit the requirements, highlight my experience as Project Manager>
 < 1 sentence to show that I understand and is excited about the company and their mission/goals>
@@ -37,7 +37,7 @@ Using manager template
 If it is a financial technology and services position use the following template delimited by triple astris
 
 ***
-Using fin-tech template
+< indicate which catagory did you classify this position to>
 < 1 sentence to show I understand the role and its requirements >
 < 1 sentence to highlight my technical skills and how they fit the requirements, highlight any pass project or experience that envolve such skills>
 < 1 sentence to highlight my track record of business management combined with engineering background that expresses my determination to enter the financial technology sector>
@@ -48,7 +48,7 @@ Using fin-tech template
 If it is a consulting position use the following template delimited by triple astris
 
 ***
-Using consulting template
+< indicate which catagory did you classify this position to>
 < 1 sentence to show I understand the role and its requirements >
 < 1 sentence to highlight my non-technical skills and how they fit the requirements, highlight any pass project or experience that envolve such skills>
 < 1 sentence to highlight my track record of business management combined with engineering background that expresses my determination to enter the financial technology sector>
