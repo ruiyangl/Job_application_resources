@@ -16,11 +16,10 @@ Determine what is the industry for the role. Choose from the following catagory:
 If it is an IT/software/data sector job use the following template delimited by triple astris
 
 ***
-< indicate which catagory did you classify this position to>
 < 1 sentence to show I understand the role and its requirements >
-< 1-2 sentence to highlight my specific technical skills, such as programing language, and how they fit the requirements, highlight any pass project or experience that envolve such skills>
-< 1 sentence to show that I understand and is excited about the company and their mission/goals>
-< 1 sentence to show why I am the best person for the job >
+< 1-2 sentence to highlight my specific technical skills and how they fit the requirements, relate each technocal skill to any pass project or experience that envolve it>
+< 1 sentence to show that I understand and is excited about the company and their mission/goals, be specific>
+< 1 sentence to show why I am the best person for the job provide evidence by mentioning what I have done specifically in the pass>
 ***
 
 
@@ -79,8 +78,9 @@ Here is the output formating template delimited by triple quotes. Again, it is c
 """
 <job position>
 
-<company>
+<which industry did you determine this job to be>
 
+<company>
 
 <paragraph showing interest>
 
